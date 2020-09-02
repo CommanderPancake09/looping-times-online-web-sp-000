@@ -3,7 +3,3 @@ def using_times
   times.do.7
   puts Wingardium Leviosa
 end
-
-
-
-
